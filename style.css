@@ -1,0 +1,63 @@
+body{
+    margin: 0%;
+}
+input[type=searchbox]{
+    width: 42rem;
+    height: 2.3rem;
+    border-radius: 2rem;
+    margin-left: 2%;
+    margin-top: 1%;
+}
+.heading{
+    display: flex;
+}
+.nav-bar{
+    display: flex;
+    justify-content: space-between;
+    width: 40rem;
+    margin-left: 10%;
+}
+.shift{
+    padding-left: 2rem;
+}
+.line{
+    border-bottom: 1px solid rgb(216, 209, 209);
+}
+main{
+    margin-left: 10%;
+}
+h2{
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
+.img-down{
+    margin-left: 15%;
+}
+.next{
+    margin-left: 5%;
+    color: rgb(77, 169, 223);
+}
+.last-text{
+    margin-top: -2%;
+    margin-left: 3%;
+}
+.numbers{
+    color:  rgb(77, 169, 223);
+}
+footer{
+    background-color: rgb(240, 232, 232);
+}
+.country-line{
+    border-bottom: 1px solid rgb(190, 182, 182);
+}
+.country{
+    margin-left: 10%;
+    transform: translate(0,1rem);
+}
+.items{
+    margin-left: 10%;
+    display: flex;
+    justify-content: space-between;
+    width: 20rem;
+}
