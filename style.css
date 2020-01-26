@@ -61,7 +61,7 @@ footer{
     justify-content: space-between;
     width: 20rem;
 }
-@media (min-width : 425px){
+@media (max-width : 425px){
     .hide{
         display: none;
     }
